@@ -1,0 +1,76 @@
+@media screen and (max-width:400px) and (min-width:300px){
+	.navbar-collapse{
+		background:#333;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: transparent; 
+	}
+	.navbar-header a {
+	    padding: 0.5em 0em 1.5em 1em;
+	}
+	.navbar-right {
+	    padding: 20px 0px;
+	    background: transparent;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+	    background-color: #fff;
+	}
+	a.contact {
+	    border: none;
+	    padding: 10px 15px!important;
+	    margin-top: inherit;
+	}
+	.tagline{
+		font-size: 3em;
+		padding-top:33vh;
+		letter-spacing: 4px;
+    	line-height: 1.4;
+	}
+
+	#banner input[type="email"] {
+		margin-right: auto;
+		text-align: center;
+	}
+	.piano-img {
+	    top: 12vh;
+	    width: 30%;
+	}
+	.stepler-img {
+	    bottom: 22vh;
+	    left: 3em;
+	    width: 20%;
+	}
+	.glass-img {
+	    bottom: 3.5vh;
+	    left: 5em;
+	    width: 38%;
+	}
+	.cup-img {width: 54%;}
+	.section-heading {font-size: 3.2em;}
+	.numbers {padding: 1em 0em 0.3em;}
+	.magnifier-img { width: 37%;}
+	.numbersfor {padding-bottom: 1em;}
+	.client-logos {padding: 0px;}
+	.client-logos img{padding: 2em 0em;}
+	.custom-tabs li {width: 30%;}
+	.custom-tabs li a{width:100%!important;font-size: 1em;}
+	.custom-tabs li:nth-child(1)>a img{width:26px;}
+	.custom-tabs li:nth-child(2)>a img{width:46px;}
+	.service-subheading {padding: 2em 0em 0em;}
+	.service-para {
+	    font-size: 1.5em;
+	    line-height: 1.7;
+	    padding: 5em 0em 7em;
+	    height: inherit;
+	}
+	.imac-img {
+    	top: 73%;
+     	height: inherit; 
+    	width: 25%;
+	}
+	.macbook-img {
+	    z-index: -1;
+	    opacity: 0.2;
+	    width: 45%;
+	}
+}

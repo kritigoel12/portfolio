@@ -1,0 +1,337 @@
+@import url('../fonts/stylesheet.css');
+
+/*SECTIONS*/
+	/*1. Common CSS*/
+	/*2. Header CSS*/
+		/*2.1. Navigation CSS*/
+		/*2.2. Banner CSS*/
+	/*3. Services CSS*/
+	/*4. Numbers CSS*/
+	/*5. About Services CSS*/
+	/*6. Client's Feedback CSS*/
+	/*7. Contact Us CSS*/
+	/*8. Footer CSS*/
+/*SECTIONS*/
+
+
+/*===============COMMON CSS STARTS===============*/
+	body{
+		font-family: 'ANR';
+		font-size: 100%;
+		overflow-x:hidden; 
+		overflow-y:hidden; 
+	}
+
+	.bold{
+		font-family: 'ANB';
+	}
+	.pd-t-50{
+		padding-top: 50px;
+	}
+	.gap{
+		padding: 6em 0em;
+	}
+	.fullsection{
+		overflow-y: hidden;
+		height: 100vh;
+		display: inline-flex;
+		width: 320%;
+		padding: 0px;
+		/*position: relative;*/
+	}
+
+	::-webkit-scrollbar {
+    	width:5px;
+	}
+	 
+	::-webkit-scrollbar-track {
+	    -webkit-box-shadow: inset 0 0 6px #999;
+	}
+	 
+	::-webkit-scrollbar-thumb {
+	  background-color:#aec065;
+	  width: 3px;
+	}
+
+	.heading1{
+		font-family: 'ANB';
+		font-size: 2em;
+	}
+	.heading2{
+		font-family: 'AN';
+		font-size: 1.6em;
+		padding-top: 2em;
+	}
+	.heading3{
+		font-size: 1.6em;
+		padding-top: 0.6em;
+	}
+	.heading4{
+		font-size: 1.3em;
+		padding-top: 0.4em;
+	}
+/*
+	::-webkit-scrollbar {
+    	width:5px;
+	}
+	 
+	::-webkit-scrollbar-track {
+	    -webkit-box-shadow: inset 0 0 6px #111;
+	}
+	 
+	::-webkit-scrollbar-thumb {
+	  background-color:red;
+	  width: 3px;
+	}*/
+/*===============COMMON CSS ENDS===============*/
+
+
+
+
+
+/*===============HEADER CSS STARTS ===============*/
+#empty{
+	width: 250px;
+	height: 100vh;
+	background: red;
+	display: table-cell;
+	padding: 0px 125px;
+}
+
+	
+	/*===============NAVIGATION CSS STARTS===============*/
+
+		nav{
+			position: fixed!important;
+			left:0px;
+			bottom: 0px;
+			top:0px;
+			width:250px;
+			z-index: 100;
+			margin: 0px!important;
+		}
+		.navbar{
+			background:#222;
+			border-bottom: none;
+			font-family: 'AND';
+			padding: 2em 0em 1em;
+			border:none;
+			border-radius: 0px;
+		}
+		.navbar-header{
+			width: 100%;
+			text-align: center;
+		}
+		.navbar-header a{
+			color: #fff!important;
+			text-transform: uppercase;
+			width: 100%;
+			font-family: 'ANB';
+			letter-spacing: 5px;
+			font-size: 3.5em;
+			padding:2em 0px 1em;
+			text-align: center;
+			margin: 0px!important;
+		}
+		.navbar-nav{
+			padding-top: 2em;
+			text-align: center;
+    		width: 100%;
+    		float: none;
+		}
+		.navbar-nav>li{
+			display: block;
+			float: none;
+		}
+		.navbar-nav>li>a{
+			display: block;
+			color: #fff!important;
+			font-size: 1.3em;
+			text-transform: uppercase;
+		}
+		a.contact{
+			border:1px solid #aec065;
+			/*padding: 2px!important;*/
+			margin-top: 12px;
+		}
+	/*===============NAVIGATION CSS ENDS===============*/
+
+
+
+
+	/*===============BANNER CSS STARTS===============*/
+/*		#banner{
+			background-image: url(../img/bg.png);
+			background-size: cover;
+			height: 100vh;
+			position: relative;
+		}
+
+
+			.tagline{
+				font-size: 8em;
+				color: #fff;
+				text-align: center;
+				font-family: 'ANUT';
+				letter-spacing: 10px;
+				line-height: 1; 
+				padding-top: 25vh;
+			}
+
+				.tagline span{
+					letter-spacing: initial;
+				}
+
+			.piano-img{
+				position: absolute;
+				top:13vh;
+				right: 0px;
+			}
+
+			.stepler-img{
+				position: absolute;
+				bottom:35vh;
+				left:10em;
+			}
+
+			.glass-img{
+				position: absolute;
+				bottom:-4.5vh;
+				left:15em;
+			}
+
+			.cup-img{
+				position: absolute;
+				top:78%;
+				right:0em;
+			}
+
+			#banner form{
+				text-align: center;
+				margin: 2em auto;
+			}
+
+				#banner form input{
+					padding:15px 30px;
+					border-radius: 30px;
+					font-size:1.2em;
+					color: #fff;
+					border:none;
+					letter-spacing: 2px;
+					outline:none;
+					font-family: 'AND';
+					display: inline-block;
+				}
+				#banner ::-webkit-input-placeholder{
+					color: #fff;
+					text-transform: uppercase;
+				}
+				#banner ::-input-placeholder{
+					text-transform: uppercase;
+					color: #fff;
+				}
+				#banner input[type="email"]{
+					width: 220px;
+					background: #42a576;
+					box-shadow: 5px 0px 76px 1px  rgba(0,0,0,0.4) inset;
+
+					margin-right: 30px;
+				}
+				#banner input[type="submit"]{
+					text-transform: uppercase;
+					background: #ff4e0c;
+					width: 170px;
+					box-shadow: 0px 5px 76px 1px  rgba(0,0,0,0.1) inset;
+				}*/
+
+	/*===============BANNER CSS ENDS===============*/
+
+
+
+/*===============HEADER CSS ENDS ===============*/
+
+
+
+
+
+/*===============SERVICES CSS STARTS ===============*/
+.commonsection{
+	display: table-cell;
+    width: 30%;
+    height: 100%;
+    overflow-y: scroll;
+    margin: 0px;
+}
+.commonsection:nth-child(7){
+    width: 44%;
+}
+#services{
+	/*display: inline-block;*/
+}
+	.section-heading{
+		font-family: 'AND';
+		font-size: 5em;
+		color: #000;
+		border-left:7px solid #aec065;
+		line-height: 1;
+		padding-left: 0.2em;
+	}
+
+	.section-para{
+		font-size: 1.5em;
+		line-height: 1.7;
+		font-family: 'ANR';
+		color: #666;
+		padding-top: 1em;
+	}
+	.bggreen{background:#aec065; }
+	.green{color:#aec065; }
+	table{
+		font-size: 1.6em;
+		line-height: 3;
+	}
+	table th{
+		font-family: 'AND';
+		width: 40%;
+	}
+	table tr{
+		border-bottom: 1px solid #ddd;
+	}
+/*	.box{
+		margin-top:8em;
+		margin-bottom:5em;
+		padding:5em 2em;
+		transition:all ease-in 0.3s;
+	}
+	.box:hover{
+		box-shadow: 0px 3px 60px rgba(0,0,0,0.2)
+	}
+
+	.box-heading{
+		font-size: 3em;
+		line-height: 1.7;
+		font-family: 'AND';
+		position: relative;
+		padding: 0.8em 0em 0em;
+	}
+	.box-heading:before{
+		position: absolute;
+		content: "";
+		left:45%;
+		height: 3px;
+		background:#ddd;
+		top:100%;
+		right: 45%;
+	}
+	.box p{
+		font-size: 1.4em;
+		line-height: 1.7;
+		padding-top: 2.2em;
+		color: #777;
+	}*/
+/*===============SERVICES CSS ENDS ===============*/
+
+
+
+
+

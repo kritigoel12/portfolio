@@ -58,7 +58,7 @@
 		font-size: 2em;
 	}
 	.heading2{
-		font-family: 'AN';
+		font-family: 'AND';
 		font-size: 1.6em;
 		padding-top: 2em;
 	}
@@ -70,6 +70,16 @@
 		font-size: 1.3em;
 		padding-top: 0.4em;
 	}
+	.inline-text{
+		display: flex;
+		justify-content: space-between;
+		align-items: top;
+	}
+	.inline-text *,.inline-text .section-para{
+		padding: 0px 10px;
+		
+	}
+
 /*
 	::-webkit-scrollbar {
     	width:5px;

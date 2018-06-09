@@ -186,7 +186,7 @@
 				<div class="section-heading">ABOUT</div>
 				<!-- Heading -->
 				<div class="heading2">PROFESSIONAL PROFILE</div>
-				<p class="section-para">I am a Frontend developer in Editsoft Solutions Pvt. Ltd. I have 2 years of experience. I joined as a trainee over here then got the job offer from here itself. I love to learn new things. This is a startup company, we got the music with the work and I like that, somewhere it makes you more enthusiastic towards your work.</p>
+				<p class="section-para">I am a UI developer in Editsoft Solutions Pvt. Ltd. I have 3.7 years of experience. I joined as a trainee over here then got the job offer from here itself. I love to learn new things. This is a startup company, we got the music with the work and I like that, somewhere it makes you more enthusiastic towards your work.</p>
 
 				<table>
 					<tr>
@@ -225,68 +225,68 @@
 				<!-- Heading -->
 				<div class="section-heading">MY SKILLS</div>
 				<!-- Heading -->
-				<p class="section-para">SKILLS, I know about the frontend technologies not every, but yes the one I needed and would love too learn more in that.</p>
-				<div class="row pd-t-50">
-					<div class="col-sm-3">
+				<p class="section-para">I know about the frontend technologies not all, but yes the one I needed and would love too learn more in that.</p>
+				<div class="row pd-t-50 inline-text">
+					
 						<div class="heading1">HTML</div>
-					</div>
-					<div class="col-sm-9">
-						<div class="progress">
+					
+					
+						<!-- <div class="progress">
 						  <div class="progress-bar bggreen progress-bar-striped" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
 						    <span class="sr-only">70% Complete (success)</span>
 						  </div>
-						</div>
+						</div> -->
 						<p class="section-para">
-							My core responsibility is to create websites ,so yes my proficiency with HTML is high. 
+							My core responsibility is to create websites, so yes my proficiency with HTML is high. 
 						</p>
-					</div>
+					
 				</div>
-				<div class="row pd-t-50">
-					<div class="col-sm-9">
-						<div class="progress">
+				<div class="row pd-t-50 inline-text">
+					<!-- <div class=""> -->
+						<!-- <div class="progress">
 						  <div class="progress-bar bggreen progress-bar-striped" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
 						    <span class="sr-only">70% Complete (success)</span>
 						  </div>
-						</div>
+						</div> -->
 						<p class="section-para">
 							CSS- As this is the queen for design, I love CSS specially, did try with CSS3 , keyframes, animations , z-index and all other style properties.
 						</p>
-					</div>
-					<div class="col-sm-3 text-right">
+					<!-- </div> -->
+					<!-- <div class=""> -->
 						<div class="heading1">CSS3</div>
-					</div>
+					<!-- </div> -->
 				</div>
-				<div class="row pd-t-50">
-					<div class="col-sm-3">
+				<div class="row pd-t-50 inline-text">
+					<div class="">
 						<div class="heading1">JQuery</div>
 					</div>
-					<div class="col-sm-9">
-						<div class="progress">
+					<div class="">
+						<!-- <div class="progress">
 						  <div class="progress-bar bggreen progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
 						    <span class="sr-only">60% Complete (success)</span>
 						  </div>
-						</div>
+						</div> -->
 						<p class="section-para">
-							Jquery is a pretty big, I made a lot use of jquery in my projects to create clicks ,popups, scrolls and a lot.
+							Jquery is a pretty big, I made a lot use of jquery in my projects to create clicks ,popups and a lot.
 						</p>
 					</div>
 				</div>
-				<div class="row pd-t-50">
-					<div class="col-sm-9">
-						<div class="progress">
+				<div class="row pd-t-50 inline-text">
+					<div class="">
+						<!-- <div class="progress">
 						  <div class="progress-bar bggreen progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
 						    <span class="sr-only"> 80% Complete (success)</span>
 						  </div>
-						</div>
+						</div> -->
 						<p class="section-para">
 							My every website is responsive and based on bootstrap framework. So, basically know most about this framework..:)
 						</p>
 					</div>
-					<div class="col-sm-3 text-right">
+					<div class="">
 						<div class="heading1">Bootstrap Framework</div>
 					</div>
 				</div>
-				<div class="row pd-t-50">
+				<!-- <div class="row pd-t-50">
 					<div class="col-sm-3">
 						<div class="heading1">PHP</div>
 					</div>
@@ -300,20 +300,39 @@
 							I made use of php too, but little, But yes on my own, I learned this scripting language too, so know about backend forms like that.
 						</p>
 					</div>
-				</div>
-				<div class="row pd-t-50">
-					<div class="col-sm-3 PHP">
-						<div class="heading1">Adobe Photoshop & Adobe Illustrator</div>
+				</div> -->
+				<div class="row pd-t-50 inline-text">
+					<div class="col-sm-3">
+						<div class="heading1">Angular</div>
 					</div>
-					<div class="col-sm-9">
-						<div class="progress">
+					<div class="">
+						<!-- <div class="progress">
 						  <div class="progress-bar bggreen progress-bar-striped" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
 						    <span class="sr-only">40% Complete (success)</span>
 						  </div>
-						</div>
+						</div> -->
 						<p class="section-para">
-							Somehow, now I felt that I like deisigning too, I know the basic functionality of both the photoshop and illustrator too, Love too learns in this, I have tried some insane things on illustrators, tried some logos from the youtube, and i felt that ,I really liked that, will attach my trial work in my portfolio. 
+							I have recently working on angular projects. So have basic knowledge about it.
+							Its a JS framework. Basically its a combination of Html , CSS or SASS and typescript.
 						</p>
+					</div>
+				</div>
+				<div class="row pd-t-50 inline-text">
+					<div class="">
+						<!-- <div class="progress">
+						  <div class="progress-bar bggreen progress-bar-striped" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+						    <span class="sr-only">40% Complete (success)</span>
+						  </div>
+						</div> -->
+						<p class="section-para">
+							<!-- Somehow, now I felt that I like deisigning too, I know the basic functionality of both the photoshop and illustrator too, Love too learns in this, I have tried some insane things on illustrators, tried some logos from the youtube, and i felt that ,I really liked that, will attach my trial work in my portfolio.  -->
+
+							I have little bit knowlegde about photoshop and illustrator too.
+							Have done small work with both like taking assests from psd's and creating some logos and designs in illustrator just to learn.
+						</p>
+					</div>
+					<div class="">
+						<div class="heading1">Adobe Photoshop & Adobe Illustrator</div>
 					</div>
 				</div>
 			</div>
@@ -332,16 +351,17 @@
 				<div class="row ">
 					<div class="col-sm-5">
 						<i class="fa fa-bookmark fa-3x green fa-fw"></i>
-						<span class="heading1">Frontend Developer</span>
+						<span class="heading1">UI Developer</span>
 					</div>
 					<div class="col-sm-7">
-						<p class="section-para">I am working as in editsoft as a Frontend developer. I am having 2 years of experience in Web developing.
+						<p class="section-para">I am working as in editsoft as a UI developer. I am having 3.7 years of experience in Web developing.
 							My work streams are.<br>
 							-Websites development.<br>
 							-Responsive Layouts.<br>
 							-PSD to HTML.<br>
 							-Using Bootstrap Framework.<br>
-							-Backend Portions.(Forms implementation)<br>
+							-Working with  Angular 4 recently in projects too <br>
+							<!-- -Backend Portions.(Forms implementation)<br> -->
 							-Small task with Photoshop and Illustrator.(related to the web).
 						</p>
 					</div>
@@ -422,17 +442,20 @@
                 <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">Coal India</div>
-                        <div class="heading4"><a href=" http://139.59.23.221/coal-front-espl/dist/">Coal India</a></div>
+                        <div class="heading4">
+                        	<!-- <a href=" http://139.59.23.221/coal-front-espl/dist/">Coal India</a> -->
+                        	<a href=" http://139.59.23.221/coal-front">Coal India</a>
+                        </div>
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
-                            Unilever is a big brand as in the product like soaps, shampoo, cleanser and a lot more that we know ,It contains, lux, dove, lipton and much more brands in it. I have worked on this project, we have created the singapore based site of the unilever, the frontend development, is done by me.
+                            Coal India is a coal sample tracking application. Basically we have have diffent users like 
                         </p>
                     </div>
                 </div>
                 <hr>
 
-                <div class="row ">
+                <!-- <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">Kasovious Landing</div>
                         <div class="heading4"><a href="http://unilever-ecommerce.com/">Kasovious Landing</a></div>
@@ -443,8 +466,8 @@
                         </p>
                     </div>
                 </div>
-                <hr>
-                <div class="row ">
+                <hr> -->
+                <!-- <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">Tata Trust</div>
                         <div class="heading4"><a href="http://unilever-ecommerce.com/">Unilever</a></div>
@@ -455,16 +478,16 @@
                         </p>
                     </div>
                 </div>
-                <hr>
+                <hr> -->
 
                 <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">Assessor</div>
-                        <div class="heading4"><a href="http://assessor.qcitech.org//">Assessor</a></div>
+                        <div class="heading4"><a href="http://assessor.qcitech.org/">Assessor</a></div>
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
-                            Unilever is a big brand as in the product like soaps, shampoo, cleanser and a lot more that we know ,It contains, lux, dove, lipton and much more brands in it. I have worked on this project, we have created the singapore based site of the unilever, the frontend development, is done by me.
+                            Assessors play a critical role in the entire process of skills assessments and the quality of assessments is linked to efficiency of the Assessor. Assessor application provides platform to ensure right set of assessors are selected for a particular project to conduct assessment.
                         </p>
                     </div>
                 </div>
@@ -477,7 +500,7 @@
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
-                            Unilever is a big brand as in the product like soaps, shampoo, cleanser and a lot more that we know ,It contains, lux, dove, lipton and much more brands in it. I have worked on this project, we have created the singapore based site of the unilever, the frontend development, is done by me.
+                           SnappBox is a delivery system company in Dubai. They do the deliveries in a easy timely manner , in all kind of businesses.
                         </p>
                     </div>
                 </div>
@@ -489,31 +512,32 @@
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
-                            Unilever is a big brand as in the product like soaps, shampoo, cleanser and a lot more that we know ,It contains, lux, dove, lipton and much more brands in it. I have worked on this project, we have created the singapore based site of the unilever, the frontend development, is done by me.
+                      		LMS is a Learning Management System ,what they does is they will be providing modules for the students to learn and on completion they will be conducting quizes.Its contains whole bunch of courses for that. Its a project fron Singapore.
+
                         </p>
                     </div>
                 </div>
 				<hr>
-                <div class="row ">
+                <!-- <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">STMS</div>
-                        <div class="heading4"><a href="http://unilever-ecommerce.com/">Unilever</a></div>
+                        <div class="heading4"><a href="http://modernstageservice.in/">Stms</a></div>
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
-                            Unilever is a big brand as in the product like soaps, shampoo, cleanser and a lot more that we know ,It contains, lux, dove, lipton and much more brands in it. I have worked on this project, we have created the singapore based site of the unilever, the frontend development, is done by me.
+                            School Trip Management System is a trip management system by a 
                         </p>
                     </div>
                 </div>
-				<hr>
+				<hr> -->
                 <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">MODERN STAGE SERVICES</div>
-                        <div class="heading4"><a href="http://unilever-ecommerce.com/">Unilever</a></div>
+                        <div class="heading4"><a href="http://unilever-ecommerce.com/">Modern Stage Service</a></div>
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
-                            Unilever is a big brand as in the product like soaps, shampoo, cleanser and a lot more that we know ,It contains, lux, dove, lipton and much more brands in it. I have worked on this project, we have created the singapore based site of the unilever, the frontend development, is done by me.
+                           Modern Stage Service has been the pioneer in the field of lighting and designing stagecraft equipment. 
                         </p>
                     </div>
                 </div>
@@ -521,7 +545,7 @@
 				<div class="row ">
 					<div class="col-sm-5">
 						<div class="heading1">UNILEVER</div>
-						<div class="heading4"><a href="http://unilever-ecommerce.com/">Unilever</a></div>
+						<!-- <div class="heading4"><a href="http://unilever-ecommerce.com/">Unilever</a></div> -->
 					</div>
 					<div class="col-sm-7">
 						<p class="section-para">

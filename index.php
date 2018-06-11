@@ -82,6 +82,8 @@
  ?>
 -->
 
+<div class="scrollisue">
+	
 
 <body>
 	<div class="container-fluid fullsection">
@@ -98,7 +100,7 @@
 				    <div class="navbar-header">
 				      <a class="navbar-brand" href="#">KRITI
 				      </a>
-				      	<img src="img/kriti1.jpg" width="150px" class="user-image">			  
+				      	<img src="img/kriti1.jpg" width="150px" class="user-image" height="150px">			  
 				    </div>
 
 				    <!-- Collect the nav links, forms, and other content for toggling -->				   
@@ -117,29 +119,33 @@
 
 
 				<!--MOBILE NAVIGATION  STARTS-->
-				<nav class="navbar navbar-default navbar-fixed-top visible-xs">
+				<nav class="navbar navbar-default  visible-xs">
 				  <div class="container-fluid">
 				    <!-- Brand and toggle get grouped for better mobile display -->
 				    <div class="navbar-header">
-				      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				     <!--  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 				        <span class="sr-only">Toggle navigation</span>
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
-				      </button>
-				      <a class="navbar-brand" href="#">Theme</a>
+				      </button> -->
+				      <!-- <a class="navbar-brand" href="#"></a> -->
+				      <a class="navbar-brand" href="#">KRITI
+				      </a>
+				      	<img src="img/kriti1.jpg" width="60px" class="user-image" height="60px">	
 				    </div>
 
 				    <!-- Collect the nav links, forms, and other content for toggling -->
-				    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				    <!-- <div class="collapse navbar-collapse in" id="bs-example-navbar-collapse-1" > -->
+				    <div >
 				   
-				      <ul class="nav navbar-nav navbar-right">
-				        <li><a href="#services" class="scroll"  data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">Our Story</a></li>
-				        <li><a href="#numbersection" class="scroll"  data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">features</a></li>
-				        <li><a href="#aboutservicessection" class="scroll"  data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">pricing</a></li>
-				        <li><a href="#clientssection" class="scroll"  data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">clients</a></li>
-				        <li><a href="#contactussection" class="contact scroll"  data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">contact</a></li>
-				      </ul>
+				    <ul class="nav navbar-nav navbar-left">
+				        <li><a href="#about" class="scroll"><i class="fa fa-user"></i></a></li>
+				        <li><a href="#myskills" class="scroll"><i class="fa fa-paint-brush"></i></a></li>
+				        <li><a href="#experience" class="scroll"><i class="fa fa-clock-o"></i></a></li>
+				        <li><a href="#education" class="scroll"><i class="fa fa-university"></i></a></li>
+				        <li><a href="#portfolio" class="contact scroll"><i class="fa fa-file-image-o"></i></a></li>
+				      </ul>	
 				    </div><!-- /.navbar-collapse -->
 				  </div><!-- /.container-fluid -->
 				</nav>
@@ -652,4 +658,5 @@
 
 </script>
 </body>
+</div>
 </html>

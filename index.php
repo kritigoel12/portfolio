@@ -22,7 +22,7 @@
 
 </head>
 
-<?php include'connection.php';?> 
+<!--<?php include'connection.php';?> 
 <?php 
 	if(isset($_POST['formsubmit'])){
 		$name=$_POST['name'];
@@ -80,6 +80,7 @@
       // echo '<script type="text/javascript">alert("Thankyou for contacting us.")</script>';
 	}
  ?>
+-->
 
 
 <body>
@@ -97,7 +98,7 @@
 				    <div class="navbar-header">
 				      <a class="navbar-brand" href="#">KRITI
 				      </a>
-				      	<img src="img/kriti.png" width="150px">			  
+				      	<img src="img/kriti1.jpg" width="150px" class="user-image">			  
 				    </div>
 
 				    <!-- Collect the nav links, forms, and other content for toggling -->				   

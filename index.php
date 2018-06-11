@@ -22,7 +22,7 @@
 
 </head>
 
-<?php include'connection.php';?>
+<?php include'connection.php';?> 
 <?php 
 	if(isset($_POST['formsubmit'])){
 		$name=$_POST['name'];
@@ -201,7 +201,7 @@
 						<th>Phone</th>
 						<td>+91- 8802727166</td>
 					</tr>
-					<tr>
+					<!-- <tr>
 						<th>Date of birth</th>
 						<td>04 Mar, 1992</td>
 					</tr>
@@ -209,7 +209,7 @@
 						<th>Address</th>
 						<td>302, Neelkanth Residency, Model Town, Ghaziabad</td>
 					</tr>
-					<tr>
+					<tr> -->
 						<th>Citizenship</th>
 						<td>Indian</td>
 					</tr>
@@ -444,7 +444,7 @@
                         <div class="heading1">Coal India</div>
                         <div class="heading4">
                         	<!-- <a href=" http://139.59.23.221/coal-front-espl/dist/">Coal India</a> -->
-                        	<a href=" http://139.59.23.221/coal-front">Coal India</a>
+                        	<a href=" http://coal.annova.tech">Coal India</a>
                         </div>
                     </div>
                     <div class="col-sm-7">
@@ -484,6 +484,7 @@
                     <div class="col-sm-5">
                         <div class="heading1">Assessor</div>
                         <div class="heading4"><a href="http://assessor.qcitech.org/">Assessor</a></div>
+                        <!-- <div class="heading4"><a href="http://139.59.37.93/">Assessor</a></div> -->
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
@@ -508,7 +509,7 @@
                 <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">LMS</div>
-                        <div class="heading4"><a href="http://unilever-ecommerce.com/">Unilever</a></div>
+                        <div class="heading4"><a href="http://learnmaxpro.com/">Unilever</a></div>
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
@@ -533,7 +534,7 @@
                 <div class="row ">
                     <div class="col-sm-5">
                         <div class="heading1">MODERN STAGE SERVICES</div>
-                        <div class="heading4"><a href="http://unilever-ecommerce.com/">Modern Stage Service</a></div>
+                        <div class="heading4"><a href="http://modernstageservice.in/">Modern Stage Service</a></div>
                     </div>
                     <div class="col-sm-7">
                         <p class="section-para">
@@ -595,7 +596,7 @@
 				<div class="row ">
 					<div class="col-sm-5">
 						<div class="heading1">Sunstone</div>
-						<div class="heading4"><a href="http://sunstone.in/management-program">Sunstone Management </a></div>
+						<!-- <div class="heading4"><a href="http://sunstone.in/management-program">Sunstone Management </a></div> -->
 						<div class="heading4"><a href="http://sunstonecampus.com">Sunstone Business School </a></div>
 					</div>
 					<div class="col-sm-7">
@@ -606,20 +607,20 @@
 				</div>
 				<hr>
 
-				<div class="row ">
+	<!-- 			<div class="row ">
 					<div class="col-sm-5">
 						<div class="heading1">EditSoft Landing Page</div>
 						<div class="heading4"><a href="http://editsoft.in/landingpages/">EditSoft Landing Page</a></div>
 					</div>
 					<div class="col-sm-7">
 						<p class="section-para">
-							Its the landing page on my company website.
+							Its the landing page of my company website.
 						</p>
 					</div>
 				</div>
-				<hr>
+ -->				<hr>
 
-				<div class="row ">
+				<!-- <div class="row ">
 					<div class="col-sm-5">
 						<div class="heading1">Eduwhiz</div>
 						<div class="heading4"><a href="http://eduwhiz.in/">Eduwhiz</a></div>
@@ -629,16 +630,16 @@
 							Its a product of our company,in which they are providing the training for the courses like Android, Marketing, Oveseas Education etc.
 						</p>
 					</div>
-				</div>
-				<hr>
+				</div> -->
+				<!-- <hr> -->
 
 			</div>
 
 		</section>
 		<!-- SERVICES SECTION ENDS-->
 
-	</div>
-
+	</div
+>
 
 
 <!-- REGISTER -->
